@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LabMovilesGuia5</string>
+    <string name="btnConversacion">Conversations</string>
+    <string name="btnLigin">Login</string>
+    <string name="btnCalculadora">Calculadora</string>
+    <string name="btnMisDatos">Mis Datos</string>
+    <string name="nombre">Nombre: \n Sandra Yamileth Sandoval Molina</string>
+    <string name="codigo">Codigo: \n SM16-I04-001</string>
+    <string name="login">Login</string>
+    <string name="usuario">Username</string>
+    <string name="contra">Password</string>
+    <string name="time">Time</string>
+    <string name="Plan">Plan</string>
+    <string name="uno">1</string>
+    <string name="dos">2</string>
+    <string name="tres">3</string>
+    <string name="cuatro">4</string>
+    <string name="cinco">5</string>
+    <string name="seis">6</string>
+    <string name="siete">7</string>
+    <string name="ocho">8</string>
+    <string name="nueve">9</string>
+    <string name="cero">0</string>
+    <string name="divicion">÷</string>
+    <string name="resta">-</string>
+    <string name="suma">+</string>
+    <string name="multiplicacion">x</string>
+    <string name="del">DEL</string>
+    <string name="ac">AC</string>
+    <string name="inv">INV</string>
+    <string name="deg">DEG</string>
+    <string name="porcentaje">%</string>
+    <string name="punto">.</string>
+    <string name="igual">=</string>
+    <string name="sin">SIN</string>
+    <string name="cos">COS</string>
+    <string name="tan">TAN</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="elevacion">^</string>
+    <string name="cerrarParentecis">)</string>
+    <string name="abrirParentecis">(</string>
+    <string name="raiz">√</string>
+    <string name="resPi">3.14159265</string>
+</resources>
